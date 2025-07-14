@@ -1,0 +1,15 @@
+scikit-learn
+pandas
+ipykernel
+numpy
+matplotlib
+seaborn
+nltk
+spacy
+wordnet
+maxent_ne_chunker
+words
+averaged_perceptron_tagger
+punkt
+gensim
+flask
